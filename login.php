@@ -71,7 +71,7 @@ if (isset($_POST['submit'])) {
       <!-- <span class="span">Forgot password?</span> -->
     </div>
     <button class="button-submit" name="submit">Log In</button>
-    <span class="span"> <?php echo $error?> </span>
+    <span class="span" style="color: red;"> <?php echo $error?> </span>
     <p class="p">Don't have an account? <span class="span"> <a href="./register.php" style="text-decoration: none;">Register</a></span>
 
     </p><p class="p line">Or With</p>
