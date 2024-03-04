@@ -15,7 +15,7 @@
       <label>Username</label>
     </div>
     <div class="user-box">
-      <input type="password" name="password" required="">
+      <input type="password" name="password" required=""  >
       <label>Password</label>
     </div><center>
     <button class="animated-button" name="login" >
